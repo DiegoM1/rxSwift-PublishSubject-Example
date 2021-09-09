@@ -1,0 +1,6 @@
+framework module Pods_rxSwiftExample {
+  umbrella header "Pods-rxSwiftExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
